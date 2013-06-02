@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class FinalButton extends MovieClip {						public function FinalButton() {			//Logic for replayButton, as it's the only instance to use this class.			this.width = 185; this.height = 75;			this.x = 160; this.y = 380;			this.gotoAndStop(2);		}	}	}

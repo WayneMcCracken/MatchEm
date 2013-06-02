@@ -1,0 +1,1 @@
+﻿package  {	import flash.text.TextField;		public class TextBox extends TextField {		public function TextBox(txt: String, posX: uint, posY: uint, boxWidth: uint, boxHeight: uint) {			wordWrap = true;						this.text = txt;			this.x = posX;			this.y = posY;			this.width = boxWidth;			this.height = boxHeight;		}	}	}

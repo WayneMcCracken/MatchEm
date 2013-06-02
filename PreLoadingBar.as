@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class PreLoadingBar extends MovieClip {						public function PreLoadingBar() {			this.x = 97; this.y = 224;		}	}	}

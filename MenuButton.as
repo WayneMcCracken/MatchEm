@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class MenuButton extends MovieClip {						public function MenuButton(xPos: Number, yPos: Number, frame: uint) {			this.x = xPos;			this.y = yPos;			this.gotoAndStop(frame);		}	}	}

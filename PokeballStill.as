@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class PokeballStill extends MovieClip {						public function PokeballStill() {			// constructor code		}	}	}

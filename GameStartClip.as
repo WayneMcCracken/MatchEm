@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class GameStartClip extends MovieClip {						public function GameStartClip() {			this.x = 125;			this.y = 90;		}	}	}

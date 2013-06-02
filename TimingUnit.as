@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		//A timer that counts down from 5 seconds at 24 frames a second. 		public class TimingUnit extends MovieClip {				public function TimingUnit(xPos: uint, yPos: uint) {			this.x = xPos;			this.y = yPos;		}	}	}

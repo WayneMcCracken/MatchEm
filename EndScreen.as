@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class EndScreen extends MovieClip {						public function EndScreen() {			this.x = 50;			this.y = 75;		}	}	}
